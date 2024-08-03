@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "step_tab.h": "c",
+        "*.tcc": "c",
+        "oled.h": "c",
+        "string.h": "c",
+        "oled_data.h": "c",
+        "stdint.h": "c",
+        "my_devices.h": "c",
+        "led_module.h": "c",
+        "kernel.h": "c",
+        "math.h": "c",
+        "oled_module.h": "c",
+        "oledfont.h": "c",
+        "sstream": "c"
+    }
+}
