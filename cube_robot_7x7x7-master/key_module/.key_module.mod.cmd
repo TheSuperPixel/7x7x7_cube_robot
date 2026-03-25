@@ -1,1 +1,0 @@
-cmd_/home/pi/Desktop/cube_project/cube_robot_7x7x7-master/key_module/key_module.mod := { echo  /home/pi/Desktop/cube_project/cube_robot_7x7x7-master/key_module/key_module.o;  echo; } > /home/pi/Desktop/cube_project/cube_robot_7x7x7-master/key_module/key_module.mod
